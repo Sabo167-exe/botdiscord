@@ -1,0 +1,23 @@
+{
+  "name": "botdiscord",
+  "version": "1.0.0",
+  "description": "création de bot pour le serveur discord https://discord.gg/QpkdzHzgDw",
+  "main": "token.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sabo167-exe/botdiscord.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sabo167-exe/botdiscord/issues"
+  },
+  "homepage": "https://github.com/Sabo167-exe/botdiscord#readme",
+  "dependencies": {
+    "discord.js": "^14.27.0"
+  }
+}
